@@ -1,8 +1,24 @@
-.users-wrapper h1{
-    color: rgb(0, 38, 255);
-    margin: 20px 90px 5px;
+body{
+    background-color: aqua;
 }
 
-.usersList{
-    margin-left: 40px;
+.container{
+    width: 90%;
+    margin:0 auto;
+    text-align: center;
+    padding: 200px;
+    display:flex;
+}
+
+.usr-wrapper{
+    width:45%;
+    background-color:rgba(8, 205, 244, 0.3);
+    padding-top:20px;
+    color:rgb(255, 25, 255);
+}
+.users-wrapper{
+    width:45%;
+    background-color:rgba(8, 205, 244, 0.3);
+    padding-top:20px;
+    color:rgb(255, 25, 255);
 }
